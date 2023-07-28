@@ -1,0 +1,6 @@
+/* Write your CSS here */
+.containerItem {
+  background-color: #000000;
+  background-size: cover;
+  min-height: 100vh;
+}

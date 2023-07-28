@@ -1,0 +1,41 @@
+/* Write your CSS code here */
+.containerI {
+  color: #ffffff;
+  display: flex;
+  padding: 5px;
+  flex-direction: row;
+  align-items: center;
+  font-weight: 600;
+  justify-content: space-between;
+}
+
+.logoImage {
+  height: 30px;
+  width: 30px;
+}
+.currencyName {
+  margin-left: 9px;
+  color: #ffffff;
+  font-size: 16px;
+}
+.rupeeI {
+  display: flex;
+  flex-direction: row;
+}
+.usdValue {
+  margin-right: 18px;
+  color: #ffffff;
+  font-size: 15px;
+}
+.euroValue {
+  margin-left: 20px;
+  margin-right: 15px;
+  color: #ffffff;
+  font-size: 15px;
+}
+.currencyType {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin-left: 10px;
+}
